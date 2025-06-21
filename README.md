@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ProEfeAli
+# 👋 Hi, I’m @MEW-OS
 
 - 👀 I’m interested in **game development**, **AI**, **coding languages**, and **software engineering**.
 - 🌱 I’m currently learning **machine learning**, **open-world game design**, and **Python frameworks**.
